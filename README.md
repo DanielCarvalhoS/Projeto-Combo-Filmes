@@ -38,7 +38,7 @@
       <a href="#" title="Nicollau">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThLcW2FBu1ktNUvcbmmbbZQzfTBXZO1XQdDQ&s" width="100px;" alt="Foto do Steve Jobs"/><br>
         <sub>
-          <b>Nicollas Neto</b>
+          <b>Nicollas Netto</b>
         </sub>
       </a>
     </td>
