@@ -5,7 +5,8 @@
   <strong>🏜️ ☀️ 🤵</strong>
 </div>
 <div align="center">
-Um projeto incrível com:
+  
+**UM PROJETO INCRÍVEL COM:**
   
 Daniel Carvalho Da Silva
   
