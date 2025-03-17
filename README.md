@@ -2,15 +2,16 @@
 # <h1 align="center">Combo Filmes</h1>
 
 <div align="center">
-  <strong>🐳 ⚙️ 🌐</strong>
+  <strong>🏜️ ☀️ 🤵</strong>
 </div>
 <div align="center">
-  Um projeto incrível com Laravel, Docker e React!
+  Um projeto incrível com:
+  - Daniel Carvalho Da Silva
+  - Christian Varandas
+  - Gabriel Barbosa
+  - Nicollas Lemes
 </div>
 
-## 🛠️ Pré-requisitos
+## 🛠️ Lore
 
-Antes de começar, certifique-se de que você tenha as seguintes ferramentas instaladas em sua máquina:
 
-- Docker 🐳
-- Docker Compose 🐙
