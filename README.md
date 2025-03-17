@@ -74,6 +74,9 @@
 
 - Oppenheimer
 
-## 🛠️ Lore
+## 📖 Lore/Jogo
+
+### 🛠️ Assets
+
 
 
