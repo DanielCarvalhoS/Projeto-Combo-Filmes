@@ -15,7 +15,7 @@
         <img src="https://pipocamoderna.com.br/storage/2023/07/Oppenheimer-1.jpg" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Daniel Carvalho Da Silva</b>
-          <h3 align="center"> Se comprometeu para Bla bla bla </h3>
+          <h3 align="center"></h3>
         </sub>
       </a>
     </td>
