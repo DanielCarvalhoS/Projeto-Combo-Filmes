@@ -1,5 +1,5 @@
 
-<h1 align="center">{#Combo Filmes}</h1>
+# <h1 align="center">Combo Filmes</h1>
 
 <div align="center">
   <strong>🐳 ⚙️ 🌐</strong>
