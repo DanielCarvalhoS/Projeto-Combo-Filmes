@@ -5,15 +5,16 @@
   <strong>🏜️ ☀️ 🤵</strong>
 </div>
 <div align="center">
-  Um projeto incrível com:
+Um projeto incrível com:
   
-  - Daniel Carvalho Da Silva
+Daniel Carvalho Da Silva
   
-  - Christian Varandas
+Christian Varandas
   
-  - Gabriel Barbosa
+Gabriel Barbosa
   
-  - Nicollas Lemes
+Nicollas Lemes
+
 </div>
 
 ## 🛠️ Lore
