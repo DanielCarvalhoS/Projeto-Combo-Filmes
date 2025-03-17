@@ -78,5 +78,12 @@
 
 ### 🛠️ Assets
 
+**Natureza Local**
+
+https://assetstore.unity.com/packages/3d/environments/dungeons/dungeon-modular-pack-295430
+
+https://assetstore.unity.com/packages/3d/environments/historic/low-poly-wild-west-village-312360
+
+https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479
 
 
