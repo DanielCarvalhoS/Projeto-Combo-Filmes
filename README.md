@@ -11,7 +11,8 @@
   <tr>
     <td align="center">
       <a href="#" title="Daniel Carvalho Da Silva">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="![image](https://github.com/user-attachments/assets/8ae9591c-eb04-4232-b88d-5362e8aa3862)
+" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Daniel Carvalho Da Silva</b>
         </sub>
