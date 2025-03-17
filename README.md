@@ -62,6 +62,18 @@
 
 ## 🔥 Filmes Escolhidos
 
+-MadMax (Jogo Inspirado Em Filme)
+
+-Uncharted (Filme Inspirado Em Jogo)
+
+-O Show De Truman (Filme/Documentário Reflexivo)
+
+-Central Do Brasil (Filme Nacional)
+
+Extra:
+
+-Oppenheimer
+
 ## 🛠️ Lore
 
 
