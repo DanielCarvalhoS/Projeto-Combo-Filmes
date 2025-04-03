@@ -68,10 +68,10 @@ Num Egito pós apocalíptico, onde o Rio Nilo está totalmente seco, o protagoni
 Ao longo da história o jogador descobre que, o local está naquela situação, devido ao lançamento de uma série de bombas nucleares.
 Após encontrar o tesouro do Faraó, ele precisa sair urgente da pirâmide, uma armadilha é ativada e ele precisa correr antes que tudo caia em ruínas com uma última explosão.
 No final, o jogador descobre que aquilo tudo era uma armação, onde o protagonista fazia parte do governo. Este queria o tesouro para a própria vontade, e no final, tudo aquilo não passou de uma falsa promessa.
-(Seria daora ter dois finais se possível, um q ele escolhe trair o governo e ajudar, e outro q ele fica do mal mesmo)
+(Seria daora ter dois finais se possível, um que ele escolhe trair o governo e ajudar, e outro q ele fica do mal mesmo)
 
 Fases
-1 - Ele parte com seu carro, tentando ultrapassar obstáculos na areia, e encontrando coisas que revelam sobre o local. (Histórias das bombas)
+1 - Ele parte com seu carro, tentando ultrapassar obstáculos na areia. Nessa primeira fase, o jogador não poderá sair do carro, e seguirá numa linha contínua. Obstáculos estarão en seu caminho, e ele poderá desviar para os lados (parecido com Subway Surfers). A fase acaba quando ele finalmente alcança a pirâmide.
 
 2 - Ele adentra a pirâmide, e lá passa por uma série de obstáculos (pode ter parkour se pa), até que chega no tesouro.
 
