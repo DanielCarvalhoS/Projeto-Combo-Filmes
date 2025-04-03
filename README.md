@@ -72,9 +72,13 @@ No final, o jogador descobre que aquilo tudo era uma armação, onde o protagoni
 
 Fases
 1 - Ele parte com seu carro, tentando ultrapassar obstáculos na areia, e encontrando coisas que revelam sobre o local. (Histórias das bombas)
+
 2 - Ele adentra a pirâmide, e lá passa por uma série de obstáculos (pode ter parkour se pa), até que chega no tesouro.
+
 3 - Pensei numa fase de flashback, onde alguma espécie de mestre ensina ele as tecnicas de parkour pra invadir locais antigos (pique os flashback do nate criança em uncharted 3)
+
 4 - Fase de fuga, parecida com jogos como temple runner
+
 5 - Não faço ideia me ajuda
 
 
