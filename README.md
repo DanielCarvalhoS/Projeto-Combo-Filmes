@@ -7,6 +7,19 @@
 </div>
 <div align="center">
 
+>[!Important]
+ > ` - Projeto:`
+>- Turma: 3°Mtec Desenvolvimento de Jogos Digitais.
+>- Escola: Etec Prof. Basilides de Godoy.
+>- Sobre: Repositório para a documentação do Projeto DBC, desenvolvido para a feira cultural da Etec Prof. Basilides de Godoy.
+>- Projeto (drive): (Aqui fica o link)
+
+>[!Important]
+ > ` - Equipe:`
+>- Daniel Carvalho
+>- Christian Varandas
+>- Nicollas Lemes
+>- Gabriel Barbosa
   
 <table>
   <tr>
