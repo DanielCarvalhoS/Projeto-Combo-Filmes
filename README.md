@@ -14,14 +14,14 @@
 >- Gabriel Barbosa
 
 >[!NOTE]
- >`Filmes escolhidos`
+ >`Filmes escolhidos:`
 >- MadMax (Jogo Inspirado Em Filme)
 >- Uncharted (Filme Inspirado Em Jogo)
 >- O Show De Truman (Filme/Documentário Reflexivo)
 >- Central Do Brasil (Filme Nacional)
 >- Oppenheimer (Escolha extra)
 
-## 📖 Lore/Jogo
+## 📖 Narrativa
 
 Ideia para amostra cultural
 
