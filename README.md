@@ -1,31 +1,25 @@
 
 >[!Important]
- > ` - Projeto:`
+ > `Projeto:`
 >- Turma: 3°Mtec Desenvolvimento de Jogos Digitais.
 >- Escola: Etec Prof. Basilides de Godoy.
 >- Sobre: Repositório para a documentação do Projeto DBC, desenvolvido para a feira cultural da Etec Prof. Basilides de Godoy.
 >- Projeto (drive): (Aqui fica o link)
 
 >[!Important]
- > ` - Equipe:`
+ > `Equipe:`
 >- Daniel Carvalho
 >- Christian Varandas
 >- Nicollas Lemes
 >- Gabriel Barbosa
 
-## 🔥 Filmes Escolhidos
-
-- MadMax (Jogo Inspirado Em Filme)
-
-- Uncharted (Filme Inspirado Em Jogo)
-
-- O Show De Truman (Filme/Documentário Reflexivo)
-
-- Central Do Brasil (Filme Nacional)
-
-**Extra:**
-
-- Oppenheimer
+>[!NOTE]
+ >`Filmes escolhidos
+>- MadMax (Jogo Inspirado Em Filme)
+>- Uncharted (Filme Inspirado Em Jogo)
+>- O Show De Truman (Filme/Documentário Reflexivo)
+>- Central Do Brasil (Filme Nacional)
+>- Oppenheimer (Escolha extra)
 
 ## 📖 Lore/Jogo
 
