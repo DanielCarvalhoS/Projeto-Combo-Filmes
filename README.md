@@ -33,3 +33,8 @@ https://assetstore.unity.com/packages/3d/environments/historic/low-poly-wild-wes
 https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479
 
 
+### LucidChart
+
+**Diagrama de Classe**
+
+https://lucid.app/lucidchart/ddc2d91e-2f79-4249-a943-9586fb96cf96/edit?viewport_loc=-919%2C-471%2C2502%2C1468%2C0_0&invitationId=inv_dfd1069d-4b68-4c95-9b2c-ad71728582ce
