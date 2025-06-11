@@ -32,6 +32,7 @@ https://assetstore.unity.com/packages/3d/environments/historic/low-poly-wild-wes
 
 https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479
 
+https://assetstore.unity.com/packages/3d/environments/landscapes/polydesert-107196
 
 ### LucidChart
 
