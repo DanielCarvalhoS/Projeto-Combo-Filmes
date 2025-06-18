@@ -6,7 +6,7 @@
 >- Sobre: Repositório para a documentação do Projeto DBC, desenvolvido para a feira cultural da Etec Prof. Basilides de Godoy. O projeto baseia-se num jogo com cinco fases, sendo inspiradas por quatro filmes sorteados pela professora, e um extra escolhido pelo grupo.
 >- Fase Carro (Daniel e Gabriel): [FaseCarro](https://drive.google.com/drive/folders/1F7xRVs-3EAE4ORgSiO7XcHsLwjEoci6Z?usp=drive_link)
 >- Fase Ruínas (Christian e Nicollas): [FaseRuínas](https://drive.google.com/drive/folders/1GxQgzUnqQJaYzf7Q5wHLlq-2SxpJOeVZ?usp=drive_link)
->- WIKI: https://github.com/DanielCarvalhoS/Projeto-Combo-Filmes.wiki.git
+>- WIKI: https://github.com/DanielCarvalhoS/Projeto-Combo-Filmes/wiki/FaseCarro
 
 >[!Important]
  > `Equipe:`
