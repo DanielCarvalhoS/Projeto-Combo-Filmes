@@ -4,7 +4,7 @@
 >- Turma: 3°Mtec Desenvolvimento de Jogos Digitais.
 >- Escola: Etec Prof. Basilides de Godoy.
 >- Sobre: Repositório para a documentação do Projeto DBC, desenvolvido para a feira cultural da Etec Prof. Basilides de Godoy. O projeto baseia-se num jogo com cinco fases, sendo inspiradas por quatro filmes sorteados pela professora, e um extra escolhido pelo grupo.
->- >- WIKI: https://github.com/DanielCarvalhoS/Projeto-Combo-Filmes/wiki/FaseCarro
+>- WIKI: [LINK](https://github.com/DanielCarvalhoS/Projeto-Combo-Filmes/wiki/1.-Informa%C3%A7%C3%B5es-Gerais).
 >- JOGO COMPLETO: [DBC-PROJECT](https://drive.google.com/drive/folders/1yr5Q99pG1mSLBtnPoQPMCpjn1sDGqcQM?usp=drive_link)
 
 >[!Important]
